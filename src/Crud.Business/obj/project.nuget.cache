@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLTmYKok1JMqvunqEpur1EB3ffmAei1pXhjl7NO5+FaLibCo9R0cEOT9hizXLgseShZ6zP/61N+de4iTSQ0XTA==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\.NET\\APICrud\\src\\Crud.Business\\Crud.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avell\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\bin\Debug\netcoreapp3.1\Crud.Business.deps.json
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\bin\Debug\netcoreapp3.1\Crud.Business.dll
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\bin\Debug\netcoreapp3.1\Crud.Business.pdb
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\obj\Debug\netcoreapp3.1\Crud.Business.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\obj\Debug\netcoreapp3.1\Crud.Business.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\obj\Debug\netcoreapp3.1\Crud.Business.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\obj\Debug\netcoreapp3.1\Crud.Business.dll
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\obj\Debug\netcoreapp3.1\Crud.Business.pdb
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Business\obj\Debug\netcoreapp3.1\Crud.Business.csprojAssemblyReference.cache

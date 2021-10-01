@@ -1,0 +1,15 @@
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\bin\Debug\netcoreapp3.1\Crud.Data.deps.json
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\bin\Debug\netcoreapp3.1\Crud.Data.runtimeconfig.json
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\bin\Debug\netcoreapp3.1\Crud.Data.runtimeconfig.dev.json
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\bin\Debug\netcoreapp3.1\Crud.Data.dll
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\bin\Debug\netcoreapp3.1\Crud.Data.pdb
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\bin\Debug\netcoreapp3.1\Crud.Business.dll
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\bin\Debug\netcoreapp3.1\Crud.Business.pdb
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\obj\Debug\netcoreapp3.1\Crud.Data.csprojAssemblyReference.cache
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\obj\Debug\netcoreapp3.1\Crud.Data.AssemblyInfoInputs.cache
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\obj\Debug\netcoreapp3.1\Crud.Data.AssemblyInfo.cs
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\obj\Debug\netcoreapp3.1\Crud.Data.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\obj\Debug\netcoreapp3.1\Crud.Data.csproj.CopyComplete
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\obj\Debug\netcoreapp3.1\Crud.Data.dll
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\obj\Debug\netcoreapp3.1\Crud.Data.pdb
+C:\Desenvolvimento\.NET\APICrud\src\Crud.Data\obj\Debug\netcoreapp3.1\Crud.Data.genruntimeconfig.cache
